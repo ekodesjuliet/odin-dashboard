@@ -4,7 +4,7 @@
 
 For this project, the goal is to develop an admin dashboard mockup. It will feature toggling of light and dark mode using JavaScript, structured with HTML, and styled with CSS. The focus will be on creating a visually appealing interface with light and dark mode themes. Although the dashboard won't have functional components, it will showcase animations to enrich user experience, providing insights into potential functionalities.
 
-Dash [here](https://krig6.github.io/odin-dashboard/)!
+Dash [here](https://ekodesjuliet.github.io/odin-dashboard/)!
 
 ## Sample
 
